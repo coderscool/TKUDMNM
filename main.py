@@ -1,0 +1,2 @@
+print("Khơi tao project")
+
